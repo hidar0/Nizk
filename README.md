@@ -1,4 +1,4 @@
-# <p align="center" style="color:#cb3349" > [<< Source hkem >> (Final Version)](https://telegram.me/lPlPIPlP)
+# <p align="center" style="color:#cb3349" > [<< Source Kat >> (Final Version)](https://telegram.me/lliii0)
 
  <p align="center" style="color: #14635c;" > سورس حكيم الاقوى والاحدث لحمايه المجموعات في التلكرام
 
@@ -6,7 +6,7 @@
 
 # <p align="center" style="color: #14635c;" > التنصيب بكود واحد
 ```sh
-git clone https://github.com/CL12S/Nizk.git ;cd Nizk;sudo chmod +x ins;sudo chmod +x run;sudo ./ins install
+git clone https://github.com/hidar0/Nizk.git ;cd Nizk;sudo chmod +x ins;sudo chmod +x run;sudo ./ins install
 ```
 
 
